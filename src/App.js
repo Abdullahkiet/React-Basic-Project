@@ -11,12 +11,13 @@ function App() {
         First React App by Muhammad Abdullah <br /> <br />Twitter Handel:
 
         </p>
-        <a
+        <text/>Twitter Handel:<a
           className="App-link"
           href="https://twitter.com/MAbdullahDev"
           target="_blank"
           rel="noopener noreferrer"
-        >@MAbdullahDev
+        >
+          @MAbdullahDev
         </a>
       </header>
     </div>
