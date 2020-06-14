@@ -16,8 +16,7 @@ function App() {
           href="https://twitter.com/MAbdullahDev"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          @MAbdullahDev
+        >@MAbdullahDev
         </a>
       </header>
     </div>
